@@ -9,7 +9,7 @@ Welcome to my corner of the web! I'm passionate about crafting clean, efficient,
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/darshan-unagar-85260526b/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/darshan-unagar-85260526b/))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/mr_darshan_940/))
 
 ## 🧰 Tools & Technologies:
